@@ -1,0 +1,156 @@
+/*Color button backgrounds start*/
+#colorFiesta1 {
+    background-color: #DD4132;
+}
+
+#colorJesterRed1 {
+    background-color:  #9E1030;
+}
+
+#colorTurmenic1 {
+    background-color: #FE840E;
+}
+
+#colorLivingCoral1 {
+    background-color: #FF6F61;
+}
+
+#colorPinkPeacock1 {
+    background-color: #C62168;
+}
+
+#colorPepperStem1 {
+    background-color: #8D9440;
+}
+
+#colorAspenGold1 {
+    background-color: #FFD662;
+}
+
+#colorPrincessBlue1 {
+    background-color: #00539C;
+}
+
+#colorToffee1 {
+    background-color: #755139;
+}
+
+#colorMangoMojito1 {
+    background-color: #D69C2F;
+}
+
+#colorTerrariumMoss1 {
+    background-color: #616247;
+}
+
+#colorSweetLilac1 {
+    background-color: #E8B5CE;
+}
+
+#colorSoybean1 {
+    background-color: #D2C29D;
+}
+
+#colorEclipse1 {
+    background-color: #343148;
+}
+
+#colorSweetCorn1 {
+    background-color: #F0EAD6;
+}
+
+#colorBrownGranite1 {
+    background-color: #615550;
+}
+
+#colorFiesta2 {
+    background-color: #DD4132;
+}
+
+#colorJesterRed2 {
+    background-color:  #9E1030;
+}
+
+#colorTurmenic2 {
+    background-color: #FE840E;
+}
+
+#colorLivingCoral2 {
+    background-color: #FF6F61;
+}
+
+#colorPinkPeacock2 {
+    background-color: #C62168;
+}
+
+#colorPepperStem2 {
+    background-color: #8D9440;
+}
+
+#colorAspenGold2 {
+    background-color: #FFD662;
+}
+
+#colorPrincessBlue2 {
+    background-color: #00539C;
+}
+
+#colorToffee2 {
+    background-color: #755139;
+}
+
+#colorMangoMojito2 {
+    background-color: #D69C2F;
+}
+
+#colorTerrariumMoss2 {
+    background-color: #616247;
+}
+
+#colorSweetLilac2 {
+    background-color: #E8B5CE;
+}
+
+#colorSoybean2 {
+    background-color: #D2C29D;
+}
+
+#colorEclipse2 {
+    background-color: #343148;
+}
+
+#colorSweetCorn2 {
+    background-color: #F0EAD6;
+}
+
+#colorBrownGranite2 {
+    background-color: #615550;
+}
+/*Color button backgrounds end*/
+
+.colorButtons {
+    width: 60px;
+    height: 50px;
+}
+
+/* .myCol {
+    border: solid 2px red;
+} */
+
+.buttonCol {
+    padding: 0;
+}
+
+.etusivuCol {
+    height: 94vh;
+}
+
+/*Color HEX code in color info text box*/
+.varikoodi {
+    display: none;
+}
+
+/*images in gallery modal*/
+#galleryModal .modal-img {
+    width: 100%;
+}
